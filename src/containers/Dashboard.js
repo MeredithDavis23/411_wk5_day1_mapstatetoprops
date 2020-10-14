@@ -1,6 +1,6 @@
 import {connect} from 'react-redux'
 import Dashboard from '../components/Dashboard'
-import Home from '../components/Dashboard'
+
 
 const mapStateToProps = (state) => {
     return {
